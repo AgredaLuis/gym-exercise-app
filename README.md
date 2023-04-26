@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# gerich-restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## _Gerich Restaurant_
 
-## Available Scripts
+![Imagen de la parte header de la pagina.](https://github.com/AgredaLuis/gym-exercise-app/blob/main/public/gym-excerceise-app-iamge.png)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Landing Page
+- Ver los distintos secciones de la pagina
+- Probar interactividad de los Links
+- Usar la barra de navegacion para buscar ejercicio en ingles
+- Modificar que tipos de ejercicios ta salgan en el main page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech
 
-### `npm run build`
+Tecnologias usada para este proyecto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React.JS] - HTML enhanced for web apps!
+- [Visual Studio Code] - Editor de texto
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [node.js] - para usar el manejador de paquetes de npm
+- [Material.UI] - paquete para usar Modificar los estilos
+- [RapidApi] - pagina SaaS donde hago peticiones para tener como respuesta los gif de ejericios
+- [Prettier] - para tener un buen formato de codigo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Pensamiento Inicial Para el proyecto
+-Este proyecto esta diseñado a partir de una modelo base basado en un modelo publicado en Pinterest, de modo de porder aprender seguir un patron de diseño
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-Ademas de aplicar de manera precisa una convención de nomenclatura CSS llamada BEM 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://dev.to/charissayj/bem-a-css-naming-convention-1o7
+ 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+MIT
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Free Software, Hell Yeah!**
