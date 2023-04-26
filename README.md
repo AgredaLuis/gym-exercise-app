@@ -1,6 +1,6 @@
-# gerich-restaurant
+# Gym Exercise-app
 
-## _Gerich Restaurant_
+## _Gym_Exercise_App_
 
 ![Imagen de la parte header de la pagina.](https://github.com/AgredaLuis/gym-exercise-app/blob/main/public/gym-excerceise-app-iamge.png)
 
